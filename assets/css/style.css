@@ -105,7 +105,7 @@ header .menu {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/simple-gradient.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -115,6 +115,11 @@ header .menu {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+    color: #EEEEEE;
+}
+
+.masthead h3 {
+    color: #EEEEEE;
 }
 
 @media (min-width: 600px) {
@@ -250,6 +255,7 @@ header .menu {
 .desc-font {
   font-size: 1.3em;
   font-weight: 300;
+    color: #EEEEEE;
 }
 
 .menu-toggle {
