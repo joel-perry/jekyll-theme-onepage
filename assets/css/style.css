@@ -255,7 +255,7 @@ header .menu {
 .desc-font {
   font-size: 1.3em;
   font-weight: 300;
-    color: #EEEEEE;
+  color: #BBBBBB;
 }
 
 .menu-toggle {
@@ -400,11 +400,11 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #1D809F;
+  color: #EEEEEE;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #EEEEEE;
 }
 
 .btn-primary {
@@ -449,3 +449,5 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+
