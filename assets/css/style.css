@@ -6,6 +6,7 @@ html {
 
 body {
   font-family: 'Source Sans Pro';
+  background: radial-gradient(circle, rgba(17,17,17,1) 0%, rgba(0,24,48,1) 100%);
 }
 
 .btn-xl {
@@ -105,10 +106,10 @@ header .menu {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: url("../img/blue_pattern.jpg");
+/*  background: url("../img/blue_pattern.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
 }
 
 .masthead h1 {
