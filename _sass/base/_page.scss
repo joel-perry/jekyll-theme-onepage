@@ -69,3 +69,18 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+.about-section {
+  @extend .page-section;
+  background-color: $gray-300;
+}
+
+.services-section {
+  @extend .page-section;
+  background-color: $gray-200;
+}
+
+.client-section {
+  @extend .page-section;
+  background-color: $gray-400;
+}
