@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: iOS Development & Consulting
-    text: Black Bar Labs
+    title: Black Bar Labs
+    text: iOS Development & Consulting
     button: Tell Me More
     buttonlink: "#services"
 
