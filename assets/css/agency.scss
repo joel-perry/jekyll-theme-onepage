@@ -30,7 +30,7 @@
 }
 
 // Custom colors
-$primary: #f67549 !default;
+$primary: #3eb9ee !default;
 $white: #fff !default;
 $black: #000 !default;
 
@@ -47,6 +47,7 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "components/client-scroll.scss";
 
 // Layout
+@import "layout/client.scss";
 @import "layout/masthead.scss";
 @import "layout/services.scss";
 @import "layout/contact.scss";

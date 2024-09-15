@@ -11,12 +11,12 @@ header:
   buttonlink: "#services"
 
 about:
-  title: "Who We Are"
-  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  title: "Who I Am"
+  body: "This is the online home of [Joel Perry](https://www.joelperry.net)."
   section: about
 
 services:
-  title: "What We Do"
+  title: "What I Do"
   text: "These are the services we provide"
   section: services
   list:
@@ -33,12 +33,12 @@ services:
 client:
   title: "Client Story"
   text: "This is the client story"
-  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-  quote: "This is the quote from Tim"
+  body: "This is the body copy"
+  quote: "“Joel Perry has been an integral part of helping us develop the iOS app for How Leaders Lead. From the start, he went beyond just writing code—he deeply understood our vision and was committed to translating that into a seamless user experience. Joel’s attention to detail, proactive problem-solving, and ability to anticipate our needs have been invaluable. His approach is more than just technical expertise; it’s about understanding the overall business and aligning the product with our goals. We couldn’t have asked for a better partner, and I’m excited to see how his work continues to enhance our platform.”<br>*Tim Schurrer - CEO, David Novak Leadership*"
   section: client
 
 contact:
-  title: "Contact Us"
+  title: "Contact Me"
   text: ""
   section: contact
   name: "Name*"

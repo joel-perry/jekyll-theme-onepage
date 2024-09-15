@@ -5,9 +5,9 @@
 # English (default)
 # -----------------
 nav:
-  - title: "Who We Are"
+  - title: "Who I Am"
     section: about
-  - title: "What We Do"
+  - title: "What I Do"
     section: services
   - title: "Client Story"
     section: client
