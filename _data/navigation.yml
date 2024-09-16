@@ -5,11 +5,11 @@
 # English (default)
 # -----------------
 nav:
-  - title: "Who I Am"
+  - title: "About"
     section: about
-  - title: "What I Do"
+  - title: "Services"
     section: services
-  - title: "Client Story"
+  - title: "Success"
     section: client
   - title: "Contact"
     section: contact

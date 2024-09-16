@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Black Bar Labs
+title      : Black Bar Labs | iOS Development and Consulting
 email      : info@blackbarlabs.com #this is also the email contact forms will go to
-description: "iOS Development and Consulting"
-author     : Joel Perry
+description: "My name is Joel Perry and I have been developing for Apple platforms since 2014, creating mobile apps in the music, streaming, B2B, and B2C spaces. I build iOS apps using the most modern technologies available, focusing on a delightful experience for users and the business vision of my clients."
+author     : Black Bar Labs
 logo:     #optional, defaults to site title
   path: assets/img/logo.png
   height: 52 #height in px, defaults to 52px

@@ -8,38 +8,34 @@ header:
   title: Black Bar Labs
   text: iOS Development & Consulting
   button: Tell Me More
-  buttonlink: "#services"
+  buttonlink: "#about"
 
 about:
-  title: "Who I Am"
-  body: "This is the online home of [Joel Perry](https://www.joelperry.net)."
+  title: "About"
+  body: "My name is Joel Perry and I have been developing for Apple platforms since 2014, creating mobile apps in the music, streaming, B2B, and B2C spaces. I build iOS apps using modern technologies and methods, focusing on a delightful experience for users and the business vision of my clients.<br><br>Content comes first in a mobile app, and an intuitive user experience should help the user quickly discover it. I favor established principles and familiar interactions, letting the content shine through.<br><br>I also have a business owner’s perspective on how digital products contribute to an overall vision. This allows me to guide my clients in making sound decisions related to a mobile app’s place in their business vision.<br><br>Contact me to schedule time to discuss your current and future mobile app goals. I look forward to hearing from you."
   section: about
 
 services:
-  title: "What I Do"
-  text: "These are the services we provide"
+  title: "Services"
   section: services
   list:
-    - title: "E-Commerce"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-    - title: "Responsive Design"
-      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      icon: fas fa-laptop
-    - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-      desc: "Your description here, full **Markdown** support"
-      icon: fab fa-markdown
+    - title: "New Apps"
+      desc: "*From concept to App Store*<br>I will help you center your ideas and navigate the process of publishing your new app to the iOS App Store."
+      icon: fab fa-app-store-ios
+    - title: "Existing Apps"
+      desc: "*Modernize your app*<br>I will update your existing app to use new architectures and styles, making it easier to use and maintain."
+      icon: fas fa-mobile
+    - title: "Consult"
+      desc: "*Start a conversation*<br>I will identify pain points for your users and developers, suggesting improvements in architecture and process."
+      icon: fas fa-comments
 
 client:
-  title: "Client Story"
-  text: "This is the client story"
-  body: "This is the body copy"
-  quote: "“Joel Perry has been an integral part of helping us develop the iOS app for How Leaders Lead. From the start, he went beyond just writing code—he deeply understood our vision and was committed to translating that into a seamless user experience. Joel’s attention to detail, proactive problem-solving, and ability to anticipate our needs have been invaluable. His approach is more than just technical expertise; it’s about understanding the overall business and aligning the product with our goals. We couldn’t have asked for a better partner, and I’m excited to see how his work continues to enhance our platform.”<br>*Tim Schurrer - CEO, David Novak Leadership*"
+  title: "Success Story"
+  body: "In the summer of 2023, I partnered with David Novak Leadership to create an iOS app based on their How Leaders Lead podcast series. We began with a simple concept and had a first version in the App Store in 6 months. Then we started iterating and seeing what ideas stuck and how we could improve the platform, all in a very collaborative process. By the summer of 2024, the How Leaders Lead app was feature-complete, highly stable, and carrying an average 5-star rating.<br><br>“Joel Perry has been an integral part of helping us develop the iOS app for How Leaders Lead. From the start, he went beyond just writing code—he deeply understood our vision and was committed to translating that into a seamless user experience. Joel’s attention to detail, proactive problem-solving, and ability to anticipate our needs have been invaluable. His approach is more than just technical expertise; it’s about understanding the overall business and aligning the product with our goals. We couldn’t have asked for a better partner, and I’m excited to see how his work continues to enhance our platform.”<br>*Tim Schurrer - CEO, David Novak Leadership*"
   section: client
 
 contact:
-  title: "Contact Me"
-  text: ""
+  title: "Contact"
   section: contact
   name: "Name*"
   name-validation: "Please enter your name."
@@ -55,5 +51,8 @@ contact:
 footer:
   legal: "Privacy Policy"
   social:
+    - url: https://www.joelperry.net
+      icon: "fas fa-blog"
     - url: https://linkedin.com/company/black-bar-labs-llc
       icon: "fab fa-linkedin-in"
+    
