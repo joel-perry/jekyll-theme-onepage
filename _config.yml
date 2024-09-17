@@ -22,7 +22,7 @@ description: "My name is Joel Perry and I have been developing for Apple platfor
 author     : Black Bar Labs
 logo:     #optional, defaults to site title
   path: assets/img/logo.png
-  height: 52 #height in px, defaults to 52px
+  height: 90 #height in px, defaults to 52px
 
 analytics:
   google: G-20VNS9DY1M
