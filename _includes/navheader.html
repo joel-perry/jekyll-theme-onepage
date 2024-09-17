@@ -5,7 +5,7 @@
           {%- if site.logo -%}
             <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}"/>
           {%- else -%}
-            {{ site.title }}
+            {{ site.short-title }}
           {%- endif -%}
       </a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,9 +35,11 @@
   <header class="masthead">
     <div class="container">
       <div class="intro-text">
-	  {%- if site.data.sitetext.header.title -%}
+        <img height="220" src="{{ site.logo-image-path }}"
+      />
+	  <!-- {%- if site.data.sitetext.header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
-	  {%- endif -%}
+	  {%- endif -%} -->
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading">{{ site.data.sitetext.header.text | markdownify }}</div>
 	  {%- endif -%}
